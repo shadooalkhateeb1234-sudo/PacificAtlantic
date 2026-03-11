@@ -3,8 +3,15 @@ A Java-based graphical simulation of the classical Pacific Atlantic Water Flow p
 
 This project combines algorithms, simulation, and object‑oriented programming in a clean and educational way.
 ---
+📸 Preview
+Add a screenshot of your running program here:
 🧠 Problem Overview
 The Pacific Atlantic Water Flow problem determines which cells in a grid allow water to reach:
+![Simulation](
+src/images/screenshot(1).png 
+src/images/screenshot(2).png
+)
+---
 
 The Pacific Ocean
 
